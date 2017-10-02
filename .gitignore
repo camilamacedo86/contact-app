@@ -1,0 +1,12 @@
+node_modules
+*.log
+*.txt
+*.idea
+
+# Mac
+.DS_Store
+ 
+# Cordova
+platforms
+plugins
+ 
