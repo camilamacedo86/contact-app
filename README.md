@@ -32,11 +32,11 @@ To get started, you'll need to have the following requirements installed
 
 ### Wireframes
 
-See https://github.com/camilamacedo86/contact-app/wireframes.pdf
+See https://github.com/camilamacedo86/contact-app/blob/master/docs/wireframes.pdf
 
 ### Screenshots
 
-Check the screenshots of this application working into : https://github.com/camilamacedo86/contact-app/docs/screenshots/
+Check the screenshots of this application working into : https://github.com/camilamacedo86/contact-app/tree/master/docs/screenshots
 
 
 ## Running tests
